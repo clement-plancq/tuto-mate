@@ -1,2 +1,3 @@
-# tuto-mate
-Ressources pour le tuto@mate du 19 mai 2020 sur spaCy
+# Tuto@Mate spaCy
+
+Ressources pour le Tuto@Mate du 19 mai 2020 sur spaCy
